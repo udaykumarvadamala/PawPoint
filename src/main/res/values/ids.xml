@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnBookAppointment" type="id"/>
+    <item name="btnViewAppointments" type="id"/>
+</resources>
+<!--    <?xml version="1.0" encoding="utf-8"?>-->
+<!--<resources>-->
+<!--&lt;!&ndash; Correct format &ndash;&gt;-->
+<!--<item name="my_custom_id" type="id" />-->
+<!--</resources>-->

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PawPoint</string>
+    <string name="error_message_email">Invalid MailID</string>
+    <string name="error_message_password">Invalid Password</string>
+    <string name="your_appointments">Your Appointments</string>
+
+    <string-array name="service_types">
+        <item>Select Service Type…</item>
+        <item>Grooming</item>
+        <item>Care</item>
+        <item>Vaccination</item>
+        <item>Training</item>
+        <item>Walking</item>
+        <item>Health Checkup</item>
+    </string-array>
+    <style name="AppTheme.LightGreen" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/light_green</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+
+</resources>

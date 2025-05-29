@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="Theme.PawPoint" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/dark_green</item>
+        <item name="colorPrimaryVariant">@color/dark_green</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+
+        <!-- Secondary color (if needed) -->
+        <item name="colorSecondary">@color/light_orange</item>
+        <item name="colorOnSecondary">@android:color/black</item>
+
+        <!-- Background -->
+        <item name="android:windowBackground">@color/light_orange_background</item>
+
+        <!-- MaterialComponents attributes -->
+        <item name="materialButtonStyle">@style/Widget.MaterialComponents.Button</item>
+        <item name="textInputStyle">@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox</item>
+
+        <!-- Customize other components as needed -->
+    </style>
+
+</resources>
